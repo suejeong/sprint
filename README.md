@@ -8,7 +8,7 @@
 
 - [x]  적절한 커밋 메시지를 남겨 주세요.  
 
-- [ ]  1-Sprint-Mission 레포지토리를 fork 합니다.  
+- [x]  1-Sprint-Mission 레포지토리를 fork 합니다.  
 
 - [ ]  GitHub에 PR(Pull Request)을 생성해 upstream의 본인 브랜치(ex)part1-홍길동)에 미션을 제출합니다.  
 
